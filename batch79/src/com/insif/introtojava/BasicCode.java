@@ -1,4 +1,4 @@
-package batch79.dayOne;
+package com.insif.introtojava;
 
 public class BasicCode {
 	
