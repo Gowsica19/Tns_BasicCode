@@ -15,6 +15,7 @@ public static void main(String[] args) {
 		int roundSalary = (int)salary; // Explicit or External - Data Narrowing
 		
 		//Arithmetic operation
+	
 		int increment = 5000;
 		
 		int total = roundSalary + increment;
